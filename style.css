@@ -22,7 +22,8 @@ header {
     background-color: #4b8de2;
     color: white;
     padding: 5px;
-    
+    position: sticky;
+    top: 0;
     text-align: left;
 }
 nav {
