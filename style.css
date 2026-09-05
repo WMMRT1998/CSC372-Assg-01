@@ -1,3 +1,14 @@
+/*
+Name: Russell Webster
+  Date: 09.04.2026
+  CSC 372-01
+
+  This is the stylesheet for the What's Happening Fayetteville website.
+  It follows the instructions to a tee, but I wanted to explain decisions i made.
+  When doing the repeating background image on event page i decided to use a body id.
+  For the block quote, i used a set width so that it would look a little cleaner.
+  
+  */
 img {
     height: 500px;
     border: 10px, black;
