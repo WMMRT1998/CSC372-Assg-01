@@ -8,7 +8,9 @@ img {
 body {
     background-color: white;
     font-family: Georgia, Garamond, serif;
-
+    background-image: url("images/background.jpg");
+    background-size: 400px;
+    background-repeat: repeat;
     margin: 0;
     padding: 0;
 }
